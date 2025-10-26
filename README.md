@@ -1,6 +1,6 @@
 # Interview Tips from Software Craftsmen Discord Group
 
-This repo serves as a collaborative space to collect and share interviewing resources/tips from members of the Software Craftsmen Discord group.
+This repo serves as a simple, collaborative space to collect and share interviewing resources/tips from members of the Software Craftsmen Discord group.
 
 ## Contributing
 
